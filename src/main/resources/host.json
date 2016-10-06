@@ -1,0 +1,11 @@
+{
+	"listen" : {
+		"port" : 80,
+		"virtualHost" : [
+			{	
+				"documentRoot" : "",
+				"serverName" : ""
+			}
+		]
+	}
+}
