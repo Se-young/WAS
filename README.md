@@ -9,13 +9,13 @@
 --> 연관파일 : /was/src/main/resources/host.json
 
 실행 예 :
- - com.homework.App.java 실행
+ - argument null or "ftp"
 
 5. logback 설정
 --> 연관파일 : /was/src/main/resources/logback.xml
 
 6. Simple WAS 구현
 실행 예 : 
- 1. com.homework.ServletApp.java 실행
+ 1. argument "servlet"
  2. http://127.0.0.1/Hello?name=Peter
  3. http://127.0.0.1/service.Hello?name=Peter
